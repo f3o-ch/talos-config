@@ -1,0 +1,2 @@
+# Talos Config
+FYI: All leaked keys inside the config are not in use anymore - just added old config files (didn't really start with the project so this was some kind of POC config) --> the secrets in the real config will be stored securly!
